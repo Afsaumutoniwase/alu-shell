@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la > sls_cwd_content

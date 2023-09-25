@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#using until to display "Best School"
 i=1
 until false;
 do

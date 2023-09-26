@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#script to display time
 hours=o
 while((hours<=12))
 do

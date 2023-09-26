@@ -3,7 +3,7 @@
 hours=o
 while((hours<=12))
 do
-echo "hours: $hours"
+echo "Hour: $hours"
 minutes=1
 while((minutes<=59))
 do

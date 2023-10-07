@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Manages "manage_my_process"
+# Bash script manages manage_my_process
 killer() {
     kill "$(pgrep -f /manage_my_process)"
     rm -f /var/run/my_process.pid &
